@@ -1,0 +1,18 @@
+C:\Users\jcrimp\Desktop\firstmethods\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\jcrimp\Desktop\firstmethods\Midterm\bin\Debug\Midterm.exe
+C:\Users\jcrimp\Desktop\firstmethods\Midterm\bin\Debug\Midterm.pdb
+C:\Users\jcrimp\Desktop\firstmethods\Midterm\obj\Debug\Midterm.exe
+C:\Users\jcrimp\Desktop\firstmethods\Midterm\obj\Debug\Midterm.pdb
+\\psf\Home\Desktop\firstmethods\Midterm\bin\Debug\Midterm.exe.config
+\\psf\Home\Desktop\firstmethods\Midterm\obj\Debug\Midterm.exe
+\\psf\Home\Desktop\firstmethods\Midterm\obj\Debug\Midterm.pdb
+\\psf\Home\Desktop\firstmethods\Midterm\bin\Debug\Midterm.exe
+\\psf\Home\Desktop\firstmethods\Midterm\bin\Debug\Midterm.pdb
+\\psf\Home\Desktop\firstmethods\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
+C:\Users\jcrimp\Desktop\firstmethods\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
+\\psf\USB2\itc 110\firstmethods\Midterm\bin\Debug\Midterm.exe.config
+\\psf\USB2\itc 110\firstmethods\Midterm\obj\Debug\Midterm.exe
+\\psf\USB2\itc 110\firstmethods\Midterm\obj\Debug\Midterm.pdb
+\\psf\USB2\itc 110\firstmethods\Midterm\bin\Debug\Midterm.exe
+\\psf\USB2\itc 110\firstmethods\Midterm\bin\Debug\Midterm.pdb
+\\psf\USB2\itc 110\firstmethods\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
